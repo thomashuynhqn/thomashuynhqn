@@ -4,7 +4,7 @@
     <source media="(min-width: 768px)" srcset="https://api.daily.dev/devcards/v2/o6qmvlrETIu2c09TvdGqw.png?type=default&r=po5" />
     <!-- Horizontal devcard for mobile view -->
     <source media="(max-width: 768px)" srcset="https://api.daily.dev/devcards/v2/o6qmvlrETIu2c09TvdGqw.png?type=wide&r=znf" />
-    <img src="https://api.daily.dev/devcards/v2/o6qmvlrETIu2c09TvdGqw.png?type=default&r=po5" width="250" align="right" alt="Thomas Huỳnh's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/o6qmvlrETIu2c09TvdGqw.png?type=default&r=po5" style="width: 100%; max-width: 250px; float: right; margin-left: 20px;" alt="Thomas Huỳnh's Dev Card"/>
   </picture>
 </a>
 
