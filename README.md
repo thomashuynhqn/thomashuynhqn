@@ -1,5 +1,11 @@
 <a href="https://app.daily.dev/thomashuynhqn" target="_blank">
-  <img src="https://api.daily.dev/devcards/v2/o6qmvlrETIu2c09TvdGqw.png?type=default&r=po5" width="250" align="right" alt="Thomas Huỳnh's Dev Card"/>
+  <picture>
+    <!-- Default vertical devcard for desktop view -->
+    <source media="(min-width: 768px)" srcset="https://api.daily.dev/devcards/v2/o6qmvlrETIu2c09TvdGqw.png?type=default&r=po5" />
+    <!-- Horizontal devcard for mobile view -->
+    <source media="(max-width: 768px)" srcset="https://api.daily.dev/devcards/v2/o6qmvlrETIu2c09TvdGqw.png?type=wide&r=znf" />
+    <img src="https://api.daily.dev/devcards/v2/o6qmvlrETIu2c09TvdGqw.png?type=default&r=po5" width="250" align="right" alt="Thomas Huỳnh's Dev Card"/>
+  </picture>
 </a>
 
 ### Hi there, I'm Thomas 👋
@@ -40,4 +46,4 @@ I'm a **Front-end Developer** based in Vietnam, and I'm on a journey to becoming
 ---
 
 ### 🚀 Let’s Connect!
-Feel free to check out my [repositories](https://github.com/thomashuynhqn) or connect with me on [LinkedIn](https://www.linkedin.com/in/thomashuynhqn/). I’m always open to collaborations or discussing new projects!
+Feel free to check out my [repositories](https://github.com/thomashuynqn) or connect with me on [LinkedIn](https://www.linkedin.com/in/thomashuynqn/). I’m always open to collaborations or discussing new projects!
