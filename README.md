@@ -1,22 +1,22 @@
 <a href="https://app.daily.dev/thomashuynhqn" target="_blank">
   <picture>
-    <!-- Default vertical dev card for desktop view, aligned to the right -->
-    <source media="(min-width: 768px)" srcset="https://api.daily.dev/devcards/v2/o6qmvlrETIu2c09TvdGqw.png?type=default&r=po5" />
-    <!-- Horizontal dev card for mobile view, centered and above the text -->
+    <!-- Default horizontal devcard for desktop view -->
+    <source media="(min-width: 768px)" srcset="https://api.daily.dev/devcards/v2/o6qmvlrETIu2c09TvdGqw.png?type=wide&r=znf" />
+    <!-- Horizontal devcard for mobile view, centered -->
     <source media="(max-width: 768px)" srcset="https://api.daily.dev/devcards/v2/o6qmvlrETIu2c09TvdGqw.png?type=wide&r=znf" />
-    <img src="https://api.daily.dev/devcards/v2/o6qmvlrETIu2c09TvdGqw.png?type=default&r=po5" 
+    <img src="https://api.daily.dev/devcards/v2/o6qmvlrETIu2c09TvdGqw.png?type=wide&r=znf" 
          style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" 
          alt="Thomas Huỳnh's Dev Card"/>
   </picture>
 </a>
 
-<br /> <!-- Add spacing after the dev card for better separation -->
+<br /> <!-- Add spacing after the devcard for better separation -->
 
 ### Hi there, I'm Thomas 👋
 
 I'm a **Front-end Developer** based in Vietnam, and I'm on a journey to becoming a **Full-Stack Developer** soon. I have a deep passion for coding and love spending time **reading and writing technical documentation**. In my free time, you'll find me playing **strategy games** or contributing to **open-source projects**.
 
-Check out my [GitHub repositories](https://github.com/thomashuynhqn) or connect with me on [LinkedIn](https://www.linkedin.com/in/thomashuynqn/).
+Check out my [GitHub repositories](https://github.com/thomashuynqn) or connect with me on [LinkedIn](https://www.linkedin.com/in/thomashuynqn/).
 
 - 🌱 **Currently learning:** TypeScript and Back-end (CMS)
 - 💼 **Looking for collaboration on:** Open-source projects and web development
