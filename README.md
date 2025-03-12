@@ -1,59 +1,54 @@
 # Hi there, I'm Thomas Huỳnh 👋
 
-I'm a **Front-End Developer** based in Vietnam with a growing passion for **Full-Stack Development**. I love building modern web applications, diving deep into technical documentation, and contributing to open-source projects. In my downtime, you'll find me strategizing over my favorite games!
+I'm a **Front-End Developer** specializing in **TypeScript, React, Next.js, and Tailwind CSS** for modern web applications, with growing experience in **Node.js, Express.js, and MySQL** on the back end. I have a strong passion for clean design and intuitive user experiences, and I love integrating UI/UX principles into my projects.
 
 ---
 
 ## 🚀 About Me
 
-- **Currently Exploring:** Modern web technologies and back-end development with Node.js, Express.js, and MySQL.
-- **Learning:** TypeScript and deepening my understanding of full-stack practices.
-- **Interests:** Front-end innovations, user experience design, and strategy games.
-- **Open to:** Collaborations on web projects and open-source contributions.
+- **Expertise:** Front-End Development focusing on modern web technologies and design.
+- **Expanding Skills:** Currently enhancing my back-end development abilities and exploring full-stack solutions.
+- **Passion:** Combining technical proficiency with a keen eye for design to create engaging, user-friendly digital experiences.
+- **Interests:** Strategy games, open-source contributions, and continuous learning in the tech world.
 
 ---
 
-## 🛠 Technologies & Skills
+## 🛠 Technical Skills & UI/UX Expertise
 
-### Programming Languages
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Front-End Development
+- **Languages:** TypeScript, JavaScript (ES6+)
+- **Frameworks & Libraries:** React, Next.js
+- **Styling & UI:** Tailwind CSS, CSS3, Sass
+- **Tooling:** Webpack, Vite, Babel
 
-### Frameworks & Libraries
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- *Exploring:* Express.js, Next.js, Tailwind CSS
-
-### Tools & Platforms
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Back-End Development
+- **Languages:** JavaScript, TypeScript
+- **Frameworks:** Node.js, Express.js
+- **Databases:** MySQL (exploring additional options)
+- **API Design:** REST, GraphQL
 
 ---
 
 ## 📚 Projects & Contributions
 
-I actively contribute to open-source and enjoy working on projects that challenge me to grow as a developer. You can explore my work on my [GitHub Repositories](https://github.com/thomashuynqn).
+I am passionate about building innovative digital solutions and actively contributing to open-source projects. Check out my work on my [GitHub repositories](https://github.com/thomashuynqn) for a range of projects, from sleek front-end applications to experimental back-end integrations.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always excited to collaborate on interesting projects or chat about technology and strategy games. Reach out to me through any of the channels below:
+I'm always excited to collaborate, share ideas, or discuss the latest in web development and design. Reach out to me through any of the channels below:
 
 - **Email:** [thomashuynhqn@gmail.com](mailto:thomashuynhqn@gmail.com)
 - **LinkedIn:** [Thomas Huỳnh](https://www.linkedin.com/in/thomashuynqn/)
-- **GitHub:** [thomashuynqn](https://github.com/thomashuynqn)
+- **GitHub:** [thomashuynqn](https://github.com/thomashuynhqn)
 
 ---
 
 ## ⚡ Fun Facts
 
 - I'm a strategy game enthusiast.
-- I have a knack for unraveling complex technical documentation.
-- I thrive on building user-friendly digital experiences.
+- I enjoy diving deep into technical documentation.
+- I continuously seek out new technologies to expand my skill set.
 
 ---
-
-Feel free to explore my profile, and don't hesitate to get in touch if you're interested in collaborating or just want to say hello!
