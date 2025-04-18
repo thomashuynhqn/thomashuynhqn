@@ -1,6 +1,6 @@
 # Hi there, I'm Thomas Huỳnh 👋
 
-I'm a **Front-End Developer** specializing in **TypeScript, React, Next.js, and Tailwind CSS** for modern web applications, with growing experience in **Node.js, Express.js, and MySQL** on the back end. I have a strong passion for clean design and intuitive user experiences, and I love integrating UI/UX principles into my projects.
+I'm a **Fullstack Developer** specializing in **TypeScript, React, Next.js, and Tailwind CSS** for modern web applications, with growing experience in **Node.js, Express.js, Nest.js, and MySQL** on the back end. I have a strong passion for clean design and intuitive user experiences, and I love integrating UI/UX principles into my projects.
 
 ---
 
