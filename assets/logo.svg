@@ -1,47 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
-  <style>
-    @keyframes pulse {
-      0%, 100% { opacity: 0.9; }
-      50% { opacity: 1; }
-    }
-    @keyframes earWiggle {
-      0%, 100% { transform: rotate(0deg); }
-      25% { transform: rotate(-2deg); }
-      75% { transform: rotate(2deg); }
-    }
-    .hex { animation: pulse 3s ease-in-out infinite; }
-  </style>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <!-- Background -->
+  <rect width="400" height="200" fill="#0d1117"/>
 
-  <!-- Hexagon background -->
-  <polygon class="hex" points="100,10 178,45 178,115 100,150 22,115 22,45" fill="#6366f1"/>
-  <polygon points="100,10 178,45 178,115 100,150 22,115 22,45" fill="none" stroke="#818cf8" stroke-width="2" opacity="0.3"/>
+  <!-- Left vertical line -->
+  <line x1="100" y1="30" x2="100" y2="170" stroke="#818cf8" stroke-width="1.5" opacity="0.6"/>
 
-  <!-- Cat ears -->
-  <polygon points="50,52 34,18 70,42" fill="#6366f1"/>
-  <polygon points="50,52 34,18 70,42" fill="none" stroke="#818cf8" stroke-width="1.5" opacity="0.4"/>
-  <polygon points="38,22 48,40 58,34" fill="#8b5cf6" opacity="0.3"/>
+  <!-- Right vertical line -->
+  <line x1="300" y1="30" x2="300" y2="170" stroke="#818cf8" stroke-width="1.5" opacity="0.6"/>
 
-  <polygon points="150,52 166,18 130,42" fill="#6366f1"/>
-  <polygon points="150,52 166,18 130,42" fill="none" stroke="#818cf8" stroke-width="1.5" opacity="0.4"/>
-  <polygon points="162,22 152,40 142,34" fill="#8b5cf6" opacity="0.3"/>
+  <!-- TH monogram -->
+  <text x="200" y="105" text-anchor="middle" font-family="Georgia,'Times New Roman',Times,serif" font-weight="700" font-size="56" fill="#ffffff" letter-spacing="6">TH</text>
 
-  <!-- Code brackets -->
-  <text x="46" y="95" font-family="'Courier New',monospace" font-weight="700" font-size="22" fill="white" opacity="0.35">&lt;</text>
-
-  <!-- TH text -->
-  <text x="100" y="97" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="42" fill="white">TH</text>
-
-  <!-- Code brackets -->
-  <text x="142" y="95" font-family="'Courier New',monospace" font-weight="700" font-size="22" fill="white" opacity="0.35">/&gt;</text>
-
-  <!-- Pink dot -->
-  <circle cx="168" cy="38" r="7" fill="#ec4899"/>
+  <!-- Registered mark style dot -->
+  <circle cx="248" cy="68" r="4" fill="#ec4899"/>
 
   <!-- Subtitle -->
-  <text x="100" y="130" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="500" font-size="11" fill="#c4b5fd" letter-spacing="3" opacity="0.7">DEV</text>
-
-  <!-- Bottom decorative dots -->
-  <circle cx="80" cy="165" r="2" fill="#6366f1" opacity="0.3"/>
-  <circle cx="100" cy="170" r="3" fill="#8b5cf6" opacity="0.4"/>
-  <circle cx="120" cy="165" r="2" fill="#ec4899" opacity="0.3"/>
+  <text x="200" y="140" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="300" font-size="16" fill="#818cf8" letter-spacing="8">DEVELOPER</text>
 </svg>
