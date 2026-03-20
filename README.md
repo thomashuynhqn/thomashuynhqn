@@ -1,79 +1,167 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,28,29,30&height=220&section=header&text=Thomas%20Huynh&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Project%20Manager%20%26%20Fullstack%20Developer&descSize=18&descColor=c4b5fd&descAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,28,29,30&height=230&section=header&text=Thomas%20Huynh&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=Project%20Manager%20%26%20Fullstack%20Developer&descSize=18&descColor=c4b5fd&descAlignY=52&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Leading+projects;Shipping+code;Bridging+strategy+with+development)](https://git.io/typing-svg)
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomashuynhqn/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomashuynhqn@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thomashuynhqn.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=818CF8&center=true&vCenter=true&repeat=true&width=520&height=40&lines=%F0%9F%90%B1+Year+of+the+Cat+%7C+%E2%99%8E+Libra;%F0%9F%9A%80+Leading+projects+%26+shipping+code;%F0%9F%8E%AF+Bridging+strategy+with+development;%F0%9F%92%BB+TypeScript+%7C+React+%7C+Next.js+%7C+Node.js)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomashuynhqn/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomashuynhqn@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thomashuynhqn.github.io)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🐱 &nbsp;About Me
 
 ```typescript
 const thomas = {
-  role: "Project Manager & Fullstack Developer",
+  role: "PM & Fullstack Developer",
+  zodiac: "Cat 🐱 | Libra ♎",
   code: ["TypeScript", "JavaScript", "PHP"],
-  focus: "Leading projects while still shipping code",
-  building: "Web platforms with React, Next.js & Node.js",
-  mantra: "Measure twice, cut once — then ship it.",
+  focus: "Lead projects, still ship code",
+  mantra: "Land on your feet, then ship it 🐾",
 };
 ```
 
----
+</td>
+<td width="50%" valign="top">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+### 🎯 &nbsp;Currently
+
+- 🔭 &nbsp;Building **web platforms** with React & Next.js
+- 🌱 &nbsp;Exploring **AI integration** in dev workflows
+- 🐾 &nbsp;Managing projects across **multiple products**
+- ⚡ &nbsp;Fun fact: Strategy game enthusiast
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br/>
 
 <div align="center">
 
-**Frontend**
+### ⚒️ &nbsp;Tech Stack
+
+<br/>
+
+**🎨 Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite&theme=dark" />
 </p>
 
-**Backend**
+**⚙️ Backend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,graphql&theme=dark" />
 </p>
 
-**Database & DevOps**
+**🗄️ Data & DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,aws,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,aws,git,github&theme=dark" />
+</p>
+
+**🎨 Design**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 </p>
 
 </div>
 
----
+<br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQFOQ/giphy.gif" width="28"> &nbsp;Trophies & Activity
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=thomashuynhqn&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <br/>
 
+<div align="center">
+
+### 🏆 &nbsp;Trophies
+
+<br/>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=thomashuynhqn&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br/>
+
+<div align="center">
+
+### 📊 &nbsp;Stats
+
+<br/>
+
+<a href="https://github.com/thomashuynhqn">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thomashuynhqn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=c9d1d9&ring_color=6366f1" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/thomashuynhqn">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomashuynhqn&layout=compact&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
+</a>
+
+<br/><br/>
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=thomashuynhqn&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=818CF8&sideLabels=818CF8&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=71717A)
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br/>
+
+<div align="center">
+
+### 🐍 &nbsp;Contribution Snake
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thomashuynhqn/thomashuynhqn/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thomashuynhqn/thomashuynhqn/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/thomashuynhqn/thomashuynhqn/output/github-snake-dark.svg" width="95%" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/thomashuynhqn/thomashuynhqn/output/github-snake-dark.svg" width="100%" />
 </picture>
+
+</div>
 
 <br/>
 
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=thomashuynhqn&style=for-the-badge&color=6366f1&labelColor=0d1117&label=PROFILE+VIEWS)
 
+<br/><br/>
+
+> *"Land on your feet — then ship it."* 🐾
+
 </div>
+
+<br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,28,29,30&height=120&section=footer)
