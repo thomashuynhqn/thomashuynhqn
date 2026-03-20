@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1"/>
+      <stop offset="100%" style="stop-color:#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:rgba(255,255,255,0.15)"/>
+      <stop offset="100%" style="stop-color:rgba(255,255,255,0)"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="96" fill="url(#bg)"/>
+  <circle cx="100" cy="100" r="96" fill="url(#shine)"/>
+
+  <!-- Outer ring -->
+  <circle cx="100" cy="100" r="96" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="2"/>
+
+  <!-- TH monogram -->
+  <text x="100" y="118" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="72" fill="white" letter-spacing="-3">TH</text>
+
+  <!-- Small dot accent -->
+  <circle cx="152" cy="72" r="6" fill="#ec4899"/>
+
+  <!-- Cat ears (subtle) -->
+  <polygon points="52,28 40,4 62,18" fill="url(#bg)" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
+  <polygon points="148,28 160,4 138,18" fill="url(#bg)" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
+
+  <!-- Inner ear -->
+  <polygon points="52,26 44,10 58,20" fill="#8b5cf6" opacity="0.6"/>
+  <polygon points="148,26 156,10 142,20" fill="#8b5cf6" opacity="0.6"/>
+</svg>

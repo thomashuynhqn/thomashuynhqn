@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Thomas Huynh
+<img src="assets/banner.svg" width="100%" />
 
-**`Project Manager & Fullstack Developer`**
-
-<br/>
+<br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=818CF8&center=true&vCenter=true&repeat=true&width=520&height=40&lines=%F0%9F%90%B1+Year+of+the+Cat+%7C+%E2%99%8E+Libra;%F0%9F%9A%80+Leading+projects+%26+shipping+code;%F0%9F%8E%AF+Bridging+strategy+with+development;%F0%9F%92%BB+TypeScript+%7C+React+%7C+Next.js+%7C+Node.js)](https://git.io/typing-svg)
 
