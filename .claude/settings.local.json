@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --no-import-alias --use-npm)",
+      "Bash(mkdir -p /tmp/thomasbak)",
+      "Bash(cp README.md /tmp/thomasbak/)",
+      "Bash(rm README.md)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --no-import-alias --use-npm --no-turbopack)",
+      "Bash(printf \"n\\\\nn\\\\n\")",
+      "Bash(yes \"\")",
+      "Bash(npm run:*)",
+      "WebFetch(domain:www.linkedin.com)",
+      "Bash(find /d/Work/Company -type f -name *.json -o -name *.yaml -o -name *.yml)",
+      "Bash(mkdir -p d:/Work/Company/thomashuynhqn/.claude/commands)",
+      "Bash(cp d:/Work/Company/.claude/commands/*.md d:/Work/Company/thomashuynhqn/.claude/commands/)",
+      "Bash(gh repo:*)",
+      "Bash(where gh:*)",
+      "Bash(mkdir -p d:/Work/Company/thomashuynhqn.github.io)",
+      "Bash(cp -r d:/Work/Company/thomashuynhqn/src d:/Work/Company/thomashuynhqn/public d:/Work/Company/thomashuynhqn/package.json d:/Work/Company/thomashuynhqn/package-lock.json d:/Work/Company/thomashuynhqn/next.config.ts d:/Work/Company/thomashuynhqn/tsconfig.json d:/Work/Company/thomashuynhqn/postcss.config.mjs d:/Work/Company/thomashuynhqn/eslint.config.mjs d:/Work/Company/thomashuynhqn/.gitignore d:/Work/Company/thomashuynhqn.github.io/)",
+      "Bash(cp -r d:/Work/Company/thomashuynhqn/.github d:/Work/Company/thomashuynhqn.github.io/)",
+      "Bash(cp -r d:/Work/Company/thomashuynhqn/.claude d:/Work/Company/thomashuynhqn.github.io/)"
+    ]
+  }
+}
