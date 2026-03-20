@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
 
-## Getting Started
+# Thomas Huynh
 
-First, run the development server:
+**Project Manager & Fullstack Developer**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+I lead projects and build modern web experiences — bridging strategy with hands-on development.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomashuynhqn/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomashuynhqn@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://thomashuynhqn.github.io)
+
+</div>
+
+---
+
+### About
+
+```typescript
+const thomas = {
+  role: "Project Manager & Fullstack Developer",
+  code: ["TypeScript", "JavaScript", "PHP"],
+  focus: "Leading projects while still shipping code",
+  currentlyBuilding: "Web platforms with React, Next.js & Node.js",
+};
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Frontend** &nbsp;&mdash;&nbsp; TypeScript &bull; React &bull; Next.js &bull; Tailwind CSS &bull; Vite
 
-## Learn More
+**Backend** &nbsp;&mdash;&nbsp; Node.js &bull; NestJS &bull; Express &bull; Laravel &bull; Strapi
 
-To learn more about Next.js, take a look at the following resources:
+**Data** &nbsp;&mdash;&nbsp; MySQL &bull; PostgreSQL &bull; REST &bull; GraphQL
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**DevOps** &nbsp;&mdash;&nbsp; Docker &bull; AWS &bull; CI/CD &bull; Git
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+<div align="center">
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomashuynhqn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=c9d1d9)](https://github.com/thomashuynhqn)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomashuynhqn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9)](https://github.com/thomashuynhqn)
+
+</div>
