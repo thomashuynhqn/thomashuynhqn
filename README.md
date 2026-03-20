@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,28,29,30&height=230&section=header&text=Thomas%20Huynh&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=Project%20Manager%20%26%20Fullstack%20Developer&descSize=18&descColor=c4b5fd&descAlignY=52&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=230&section=header&text=Thomas%20Huynh&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=Project%20Manager%20%26%20Fullstack%20Developer&descSize=18&descColor=c4b5fd&descAlignY=52&animation=fadeIn)
 
 <br/>
 
@@ -164,4 +164,4 @@ const thomas = {
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,28,29,30&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer)
